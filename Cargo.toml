@@ -1,0 +1,3 @@
+[workspace]
+members = ["torrent-parser","torrent-core","torrent-pwp"]
+resolver = "2"
